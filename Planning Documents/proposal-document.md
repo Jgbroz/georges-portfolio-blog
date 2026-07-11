@@ -1,9 +1,8 @@
-# George's Portfolio Site
-### Client Company Name
+# George's Portfolio Site Proposal Document
 
-##### Prepared For: Me George :)
-*10 July, 2026*
+**Document Created:** 11/07/2026
 
+**Author:** George Ashcorft
 ## Overview
 
 This document is a simple place for me to throw ideas and begin planning an overall site to showcase skills and projects I am working on. This document will also be commited into the git repo as a means to track and display a fun flow from start of project conception to final piece.
