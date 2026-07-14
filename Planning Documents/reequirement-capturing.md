@@ -59,11 +59,40 @@ Aspects deemed out of scope which I have been wanting to do for a while. Having 
 
 ### 3.1 Actor Profiles Specification
 
-1. A vistior must be ablle to access a landing page consisting of a clean hero image that displays what the site is.
+#### Visitor User Specs
 
-#### Average User Specs
+1. A vistior must be ablle to access a **Landing Page** consisting of a clean hero image that displays what the site is.
+  1.1 The landing page must be configurable in the CMS with customizable content like side on images and text.
+  1.2 The landing page must also have a direct link to the about me page with an eye catching hero image front and center
+  1.3 The landing page must have a degree of flair or wow factor in order to show off a complex understanding of front end work. Even if this isn't my specialty.
+2. The site must have a clean accessible **Header** which displays each of the sites endpoints with a designed logo for myself that redirects to home.
+  2.1 This CMS should be configurable within the CMS but isn't essential as we can scale this for future work.
+  2.2 This header must blend in well with the general style of the site.
+  2.3 This header must redirect users to each of the expected pages seamlessly.
+3. The site should have a **Footer** displayed to the user with general links to socials, aspects of the site and so on.
+  3.1 This must respect logo restrictions and copyrights to ensure we aren't in breach of any of their stylings.
+  3.2 This segment isn't necessary depending on how we want to stylise the site.
+4. The site must have an **About Me** that displays information about me cleanly
+  4.1 The about me should include, Hobbies, Work Experience, a General Bio about me (age, where I'm form etc.).
+  4.2 The about me should be configurable via the CMS but isn't essential as it's largely going to be stylised.
+  4.3 The about me should also have my CV downloadable for any potential prospects.
+5. The site must have a **Contact Me** page that emails me directly.
+  5.1 The recieved email must include the senders email as part of the body as well as a subject tag.
+  5.2 The contact me page should have some degree of spam prevention such as a honey pot to prevent bot spam.
+  5.3 The contact me page must have the following fields as part of the form: Subject, Email and Message.
+  5.4 The contact me page could include some form of security test for better security against bots such as turnstile or captcha.
+6. The site must have a **Blog** page that shows any posts I create.
+  6.1 The blog must be filterable or have header categories that show different things. These could include Hobbying, Project or even general thoughts.
+  6.2 The blog must display blog titles, subjects and publish date which can be filterable and searchable by these values.
+  6.3 The blog must open each of these articles as a pop up page for simple and quick viewing.
+  6.4 The blog should be clean and easy to navigate and read with easy linking with anchor tags.
 
-#### Admin Specs
+#### Admin User Specs
+
+1. The site must contain some form of site tracking for general statistics to see how many people have visited the site.
+  1.1 The site should include a GDPR disclaimer on site first access that when accepted instantiates the necessary cookies required.
+  1.2 The site should include either an external tool such as google analytics cookies or an internal tracker for unique devices accessing it.
+2. The site must include a backend CMS system that utilizes a configurable clean system. 
 
 ## 4. Non-Functional requirements
 
